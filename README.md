@@ -53,6 +53,7 @@ The interface provides:
    - Set parameters like projectile weight and inclination.
    - Initiate firing to observe system behavior.
 5. Emergency stop buttons can be used to simulate system failures or safety conditions.
+6. **Before running the program, make sure to update the icon names in the code to ensure proper functionality.**
 
 ## Control Options
 - **"Seri Atış Modu Başlat"**: Start batch firing mode.
