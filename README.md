@@ -1,13 +1,13 @@
-# README: Vehicle Ammunition Supply System Simulation and Desktop Application
+# README: Military Vehicle Ammunition Supply System Simulation and Desktop Application
 
 ## Overview
-This project provides a desktop application and simulation for the **Ammunition Supply System** of a vehicle. The application visualizes technical and firing scenarios, allowing users to interactively control and observe the ammunition loading process. The primary goal is to replicate and simulate the system behavior in a virtual environment.
+This project provides a desktop application and simulation for the **Ammunition Supply System** of a military vehicle. The application visualizes technical and firing scenarios, allowing users to interactively control and observe the ammunition loading process. The primary goal is to replicate and simulate the system behavior in a virtual environment.
 
 The project has been implemented using **MATLAB** and **Simulink**.
 
 ## Key Features
 1. **Ammunition Supply Visualization**:
-   - Simulates the process of loading ammunition into the vehicle.
+   - Simulates the process of loading ammunition into the military vehicle.
    - Displays both the technical and operational states of the loading system.
 
 2. **System Control**:
@@ -53,7 +53,7 @@ The interface provides:
    - Set parameters like projectile weight and inclination.
    - Initiate firing to observe system behavior.
 5. Emergency stop buttons can be used to simulate system failures or safety conditions.
-6. **Before running the program, make sure to update the icon names in the code to ensure proper functionality.**
+**Note:** **Before running the program, make sure to update the icon names in the code to ensure proper functionality.**
 
 ## Control Options
 - **"Seri Atış Modu Başlat"**: Start batch firing mode.
